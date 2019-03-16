@@ -1,0 +1,19 @@
+{
+  "name": "react-keep",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --verbose=false"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "7.3.4",
+    "@babel/preset-react": "7.0.0",
+    "@types/jest": "24.0.11",
+    "babel-jest": "24.5.0",
+    "jest": "24.5.0",
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
+    "react-testing-library": "6.0.0"
+  }
+}
